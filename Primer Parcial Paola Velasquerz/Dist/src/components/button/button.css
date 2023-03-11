@@ -1,0 +1,11 @@
+#button {
+    border: none;
+    background-color: rgb(255, 173, 125);
+    width: 100px;
+    height: 70px;
+    border-radius: 30px;
+}
+
+#contain {
+    margin-left: 90%;
+}
